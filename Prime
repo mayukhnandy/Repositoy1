@@ -8,7 +8,7 @@ for(i=2;i<=m;i++)
 {    dsd
 if(n%i==0)    
 {    
-printf("Number is not prime");  rg  
+printf("Number is not prime");  rg  xxc
 flag=1;    
 break;    
 }    
