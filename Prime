@@ -1,19 +1,43 @@
-#include<stdio.h>  
-int main(){   df 
-int n,i,m=0,flag=0; xxc   
-printf("Enter the number to check prime:");    
-scanf("%d",&n);    
-m=n/2;    
-for(i=2;i<=m;i++)    
-{    dsd
-if(n%i==0)    
-{    
-printf("Number is not prime");  rg  xxc
-flag=1;    
-break;    
-}    
-}    f
-if(flag==0)    
-printf("Number is prime");     
-return 0;  
- }    
+import java.util.ArrayList;
+
+public class User<wishlist> {
+	private String name; 
+	private ArrayList<Item> wishlist;
+	private User mytaste;
+	private User con;
+	
+	public User(String name, User con){
+		this.name = name;
+                this.con = con;
+		wishlist = new ArrayList<Item>();
+	}
+	//42
+	public String getName(){
+		return name;
+	}
+
+	public ArrayList<Item> getWishlist(){
+		return wishlist;
+	}
+	
+	public void addToWishlist(Item item){
+		wishlist.add(item);
+	}
+	
+	public void removeFromWishlist(Item item){
+		wishlist.remove(item);
+	}
+      
+	public User getTasteManager(){
+		return mytaste;
+	}
+
+        public Item getItemFromWishlist(int i){
+		return wishlist.get(i);
+	}
+	public static void main(String[] args) {
+		//Auto-generated method stub
+
+	}
+
+} //Code Modified
