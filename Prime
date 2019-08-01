@@ -32,7 +32,7 @@ public class User<wishlist> {
 		return mytaste;
 	}
 
-        public Item getItemFromWishlist(int i){
+        public Item getddItemFromWishlist(int i){
 		return wishlist.get(i);
 	}
 	public static void main(String[] args) {
@@ -40,5 +40,5 @@ public class User<wishlist> {
 
 	}
 
-} //Code Modified
+} //Code Modified//
  //
