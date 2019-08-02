@@ -25,7 +25,7 @@ public class User<wishlist> {
 	}
 	
 	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					//wishlist Item Removed
+		wishlist.remove(item);					//wishlist Item Removed(modified)
 	}
       
 	public User getTasteManager(){
