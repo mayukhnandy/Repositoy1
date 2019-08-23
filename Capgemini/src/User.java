@@ -16,7 +16,7 @@ public class User {
 	}
 
 	/**
-	 * @param args
+	 * @param argfsiugy
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
