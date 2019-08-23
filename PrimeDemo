@@ -8,7 +8,7 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {    
-printf("Number is not prime modi")
+printf("Number is not prime modgi")
 flag=1;    
 break;    
 }    
