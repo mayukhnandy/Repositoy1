@@ -116,6 +116,6 @@ public class User
       public static int getCount()              
       {                                         
          return count;                          
-      } // end method getCount
+      } // end method getCount mod
 
  }
