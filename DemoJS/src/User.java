@@ -110,7 +110,7 @@ public class User
       public String getLastName()
       {
          return lastName;
-      } // end method getLastName;
+      } 
       // static method to get static count value
       public static int getCount()              
       {                                         
