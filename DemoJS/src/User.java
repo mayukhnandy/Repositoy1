@@ -111,7 +111,6 @@ public class User
       {
          return lastName;
       } // end method getLastName;
-
       // static method to get static count value
       public static int getCount()              
       {                                         
