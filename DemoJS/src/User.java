@@ -110,10 +110,10 @@ public class User
       {
          return lastName;
       } 
-      // static method to get static count value
+      // static method to get static count value.
       public static int getCount()              
       {                                         
-         return count;                         
+         return count;    
       }// end method getCount check 34
 
  }
