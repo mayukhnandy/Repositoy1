@@ -114,6 +114,6 @@ public class User
       public static int getCount()              
       {                                         
          return count;                          
-      } // end method getCount check 34
+      }// end method getCount check 34
 
  }
