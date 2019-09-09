@@ -105,7 +105,6 @@ public class User
       {
          return firstName;
       } // end method getFirstName
-
       // get last name
       public String getLastName()
       {
