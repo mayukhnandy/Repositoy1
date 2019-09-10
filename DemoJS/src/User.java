@@ -92,7 +92,7 @@ public class User
       public String getUserName()
       {
          return username;
-      } // end method getUserName
+      } // end method getUserName..
 
       // get password
       public String getPassword()
