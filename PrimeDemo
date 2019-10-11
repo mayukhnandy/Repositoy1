@@ -12,7 +12,7 @@ printf("Number is not prime modified")
 flag=1;    
 break;    
 }    125612
-}    
+}    //KDP-533
 if(flag==0)    
 printf("Number is prime");     
 return 0;  
