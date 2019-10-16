@@ -6,7 +6,7 @@ public class User
     private String username;
     private String password;
 
-    private static int count = 0; // number of objects in memory
+    private static int count = 0; // number of objects in memory SGD
 
     // initialize user, add 1 to static count and
      // output String indicating that constructor was called
