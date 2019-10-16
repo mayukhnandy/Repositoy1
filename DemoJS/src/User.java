@@ -8,7 +8,7 @@ public class User
 
     private static int count = 0; // number of objects in memory SGD
 
-    // initialize user, add 1 to static count and
+ 
      // output String indicating that constructor was called
      public User( String first, String last )
      {
