@@ -11,7 +11,7 @@ public class Automation <wishlist> {
                 this.con = con;
 		wishlist = new ArrayList<Item>();
 	}
-	//#BR42
+	//#BR43
 	public String getName(){
 		return name;
 	}
