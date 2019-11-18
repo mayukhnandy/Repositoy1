@@ -25,7 +25,7 @@ public class Automation <wishlist> {
 	}
 	
 	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					//wishlist Item Removed(modified)BR 46
+		wishlist.remove(item);					// 48
 	}
       
 	public User getTasteManager(){
