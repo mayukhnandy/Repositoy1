@@ -25,7 +25,7 @@ public class Automation <wishlist> {
 	}
 	
 	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					// US41 again SGD mod
+		wishlist.remove(item);					// US41 again SGD modification
 	}
       
 	public User getTasteManager(){
