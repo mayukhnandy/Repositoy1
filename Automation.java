@@ -25,7 +25,7 @@ public class Automation <wishlist> {
 	}
 	
 	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					// BDP-151 mod
+		wishlist.remove(item);					// BDP-151 modified
 	}
       
 	public User getTasteManager(){
