@@ -25,7 +25,7 @@ public class Automation <wishlist> {
 	}
 	
 	public void removeFromWishlist(Item item){
-		wishlist.remove(item);					//US1006
+		wishlist.remove(item);					//US1008
 	}
       
 	public User getTasteManager(){
