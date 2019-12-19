@@ -14,7 +14,7 @@ public class User<wishlist> {
 	//#BR9
 	public String getName(){
 		return name;
-	}
+	}v
 
 	public ArrayList<Item> getWishlist(){
 		return wishlist;
