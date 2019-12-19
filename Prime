@@ -9,7 +9,7 @@ public class User<wishlist> {
 	public User(String name, User con){
 		this.name = name;
                 this.con = con;
-		wishlist = new ArrayList<Item>();
+		wishlist = new ArrayList<Item>();//
 	}
 	//#BR9
 	public String getName(){
@@ -37,7 +37,7 @@ public class User<wishlist> {
 	}
 	public static void main(String[] args) {
 		//Auto-generated method stubs
-ew
+
 	}
 
-} 
+} /// Requirement ID 
