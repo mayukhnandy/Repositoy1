@@ -21,7 +21,7 @@ public class User<wishlist> {
 	}
 	
 	public void addToWishlist(Item item){
-		wishlist.add(item);
+		wishlist.add(item);123
 	}
 	
 	public void removeFromWishlist(Item item){
