@@ -35,7 +35,7 @@ public class User<wishlist> {
 
         public Item getddItemFromWishlist(int i){
 		return wishlist.get(i);
-	}//
+	}
 	public static void main(String[] args) {
 		//Auto-generated method stubs
 
