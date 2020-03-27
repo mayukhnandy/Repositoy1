@@ -30,7 +30,7 @@ public class User<wishlist> {
 	}
       
 	public User getTasteManager(){
-		return mytaste;
+		return mytaste;;
 	}
 
         public Item getddItemFromWishlist(int i){
