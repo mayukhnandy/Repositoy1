@@ -8,7 +8,7 @@ public class User<wishlist> {
 	
 	public User(String name, User con){
 		this.name = name + "";
-		this;w
+		this;
                 this.con = con;
 		wishlist = new ArrayList<Item>();//
 	}
