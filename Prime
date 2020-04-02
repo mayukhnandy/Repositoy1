@@ -11,7 +11,7 @@ public class User<wishlist> {
                 this.con = con; 
 		wishlist = new ArrayList<Item>();//
 	}
-	//#BR94456
+	//#BR94456wetdsg
 	public String getName(){
 		return name;
 	}
