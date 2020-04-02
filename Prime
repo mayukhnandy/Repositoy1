@@ -10,7 +10,7 @@ public class User<wishlist>
 	public User(String name, User con){
 		this.name = name + "" ;
                 this.con = con; 
-		wishlist = new ArrayList<Item>();//ewsssytuj
+		wishlist = new ArrayList<Item>();//ewsssytujfth
 	}
 <<<<<<< HEAD
 	//#BR94456wetdsg
