@@ -7,7 +7,7 @@ public class User<wishlist>
 	private User mytaste;
 	private User con;
 	sss124er7
-	public User(String name, User con){
+	public User(String name, User con){//guv
 		this.name = name + "" ;
                 this.con = con; 
 		wishlist = new ArrayList<Item>();//ewsssytujfth
