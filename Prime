@@ -5,7 +5,7 @@ public class User<wishlist> {
 	private ArrayList<Item> wishlist;
 	private User mytaste;
 	private User con;
-	
+	s
 	public User(String name, User con){
 		this.name = name + "";
                 this.con = con; 
