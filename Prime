@@ -11,7 +11,7 @@ public class User<wishlist>
 		this.name = name + "" ;
                 this.con = con; 
 		wishlist = new ArrayList<Item>();//ewsssytujfth
-	}
+	}hjhjhj
 <<<<<<< HEAD
 	//#BR94456wetdsg
 =======
