@@ -1,17 +1,22 @@
 import java.util.ArrayList;
 
-public class User<wishlist> {
+public class User<wishlist> 
+{
 	private String name; 
 	private ArrayList<Item> wishlist;
 	private User mytaste;
 	private User con;
-	s
+	sss
 	public User(String name, User con){
-		this.name = name + "";
+		this.name = name + "" ;
                 this.con = con; 
 		wishlist = new ArrayList<Item>();//
 	}
+<<<<<<< HEAD
 	//#BR94456wetdsg
+=======
+	//
+>>>>>>> branch 'master' of https://github.com/kovairstandarddemo/Repositoy1.git
 	public String getName(){
 		return name;
 	}
@@ -41,3 +46,4 @@ public class User<wishlist> {
 	}
 
 } // Requirement ID  75
+//new commity76uy589sxzhdb657675786767856ewte67678
