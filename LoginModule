@@ -13,7 +13,7 @@ flag=1;
 break;    
 }    125612
 }    
-if(flag==0)    //manish24565ytuy
+if(flag==0)    //manish24565ytuy defect id41
 printf("Number is prime");   
 return 0;  
  }    
