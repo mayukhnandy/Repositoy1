@@ -13,7 +13,7 @@ flag=1;
 break;    
 }    125612
 }    
-if(flag==0)    //manish
+if(flag==0)    //manish24565
 printf("Number is prime");   
 return 0;  
  }    
