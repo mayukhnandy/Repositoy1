@@ -8,13 +8,13 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {    
-printf("Number is not prime modified"//comment added by anshu
+printf("Number is not prime modified"//comment added by anshu id 53
 flag=1;    
 break;    
 }    125612
 }    
 if(flag==0)    
-printf("Number is prime");     
+printf("Number is prime");   
 return 0;  
  }    
 //Impjhgdfhnj
