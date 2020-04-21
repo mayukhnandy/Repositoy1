@@ -8,14 +8,14 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {    
-printf("Number is not prime modified"//
+printf("Login Pass")//
 flag=1;    
 break;    
 }    125612
 }    
-if(flag==0)    //modified by Jeet on 14042020
-printf("Number is prime");   
+if(flag==0)    
+printf("Login Failed ");   
 return 0;  
  }    
 //
-/
+// Defect ID : 193
