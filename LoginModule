@@ -14,7 +14,7 @@ break;
 }    125612
 }    
 if(flag==0)    
-printf("Login Failed ");   
+printf("Login Failed ");  //edited 
 return 0;  
  }    
 //
