@@ -14,8 +14,7 @@ break;
 }    125612
 }    
 if(flag==0)    
-printf("Login Failed ");  //edited 
+printf("Login Failed ");  //edited //46
 return 0;  
  }    
-//
-// Defect ID : 193
+Requirement ID : 45
