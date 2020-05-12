@@ -8,13 +8,13 @@ for(i=2;i<=m;i++)
 {    
 if(n%i==0)    
 {    
-printf("Login Pass")//
+printf("Login Pass")//edit
 flag=1;    
 break;    
 }    125612
 }    
 if(flag==0)    
-printf("Login Failed "); //edited //46newsty//yhsdd//abc//gjhhg
+printf("Login Failed "); //edited
 return 0;  
  }    
 Requirement ID : 45
