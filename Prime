@@ -7,11 +7,11 @@ public class User<wishlist>
 	private User mytaste;
 	private User con;
 	sss124er7
-	public User(String name, User con){//guv
+	public User(String name, User con){
 		this.name = name + "" ;
                 this.con = con; 
-		wishlist = new ArrayList<Item>();//ewsssytujfthfdghdfhhtfdrh
-	}hjhjhj
+		wishlist = new ArrayList<Item>();
+	}
 <<<<<<< HEAD
 	//edit//editjd//edit
 =======
